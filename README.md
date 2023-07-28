@@ -17,4 +17,4 @@ Here's some ideas, keep in mind that, obviously, we will not reach anything clos
 - Build a Messageboard
 - Build a mini web framework
 - Do a [coding kata](http://codekata.com/)
-- ?? you decide! The only limit is your mind!
+- ?? you decide! The only limit is [your mind](https://zombo.com/)!
