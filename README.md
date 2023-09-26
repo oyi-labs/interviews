@@ -7,7 +7,7 @@ This exercise is an opportunity for us to try out working together and hopefully
 - We have 60 minutes together, and as that is not a lot of time, we should spend it wisely and make sure we make the most of it.
 - It's best to use the candidate's (your) machine, in their most comfortable environment/IDE, while sharing screen.
 - It's recommended to use the language/framework you are most familiar with, and choose a task that would be best in this language/framework (it's not the day for trying a new language :) ).  At Oyi labs, we are mostly using Typescript (Next.js frontend, Supabase backend) & Python (AI side).
-- Part of the exercise is navigating abiguity.  60 minutes is not a lot of time and it goes by fast, so you have to be very careful what you work on.  Building "forgot email" functionality could easily burn 20 minutes of your time. So choose what you work on wisely, and be ready to abandon non-critical things that are taking too long.
+- Part of the exercise is navigating ambiguity.  60 minutes is not a lot of time and it goes by fast, so you have to be very careful what you work on.  Building "forgot email" functionality could easily burn 20 minutes of your time. So choose what you work on wisely, and be ready to abandon non-critical things that are taking too long.
 - Bonus points if you run `rails new`/`npm install`/`composer create-project`/etc beforehand so that we can get started a bit faster
 
 #### Ideas/Examples
